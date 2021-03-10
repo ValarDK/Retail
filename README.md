@@ -65,5 +65,6 @@ OS:           Windows 10 10.0 amd64
 # Testing
 Unit tests
 com.target.myretail.service.ProductServiceImplTest.java
+com.target.myretail.myRetailApplicationTests.java
 ![testReults](https://user-images.githubusercontent.com/68809796/110689472-b8fefd00-8208-11eb-8b6e-55b5d37beb35.JPG)
 
