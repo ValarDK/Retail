@@ -23,15 +23,15 @@ Example product IDs: 13860428, 54456119, 13264003, 12954218)
 •	BONUS: Accepts an HTTP PUT request at the same path (/products/{id}), containing a JSON request body similar to the GET response, and updates the product’s price in the data store. 
 
 # Development Environment
-IDE - IDEA Intellij
-Version Control - Git
-Dependency Management - Gradle 6.6.1
-Database - MongoDb NoSql
-RESTful Application framework - Spring Boot
-Programming language - Java 1.8
-Unit Testing library - JUnit, Mockito
-API Integration Testing - PostMan ,Swagger
-Operating System - Windows 10 10.0 amd64
+1. IDE - IDEA Intellij
+2. Version Control - Git
+3. Dependency Management - Gradle 6.6.1
+4. Database - MongoDb NoSql
+5. RESTful Application framework - Spring Boot
+6. Programming language - Java 1.8
+7. Unit Testing library - JUnit, Mockito
+8. API Integration Testing - PostMan ,Swagger
+9. Operating System - Windows 10 10.0 amd64
 
 # MongoDB
 1. Start your MongoDB server - use studio3T 
