@@ -40,7 +40,9 @@ Example product IDs: 13860428, 54456119, 13264003, 12954218)
 
 # Running myRetail Application
 Run application via gradle task run
+
 Use Swagger to access endpoints or other tools like Postman
+
 URL : http://localhost:8129/target/swagger-ui.html#/
 
 # API's
